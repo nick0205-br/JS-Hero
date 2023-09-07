@@ -1,9 +1,6 @@
 /**
- * @author qiao / https://github.com/qiao
- * @author mrdoob / http://mrdoob.com
- * @author alteredq / http://alteredqualia.com/
- * @author WestLangley / http://github.com/WestLangley
- * @author erich666 / http://erichaines.com
+ * @author nick0205-br / https://github.com/nick0205-br
+
  */
 
 // This set of controls performs orbiting, dollying (zooming), and panning.

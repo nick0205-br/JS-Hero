@@ -1,5 +1,5 @@
 /**
- * @author mrdoob / http://mrdoob.com/
+ * @author nick0205-br / https://github.com/nick0205-br
  */
  import * as THREE from './three';
 
